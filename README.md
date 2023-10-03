@@ -6,14 +6,12 @@
   <a href="https://www.linkedin.com/in/juan-william-ab69b0271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 ## Bem vindo ao meu perfil do GitHub
 
 <div>
     <a href="https://github.com/gugamcz"></a>
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=souowill&show_icons=true&theme=dark"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souowill&layout=compact&langs_count=7&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=souowill&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
