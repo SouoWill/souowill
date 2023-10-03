@@ -16,8 +16,11 @@
 
 ## Sobre mim
 
-• 💻 Estudando atualmente JavaScript
-• 💼 Tenho a ambição de ser um Dev FullStack
+<ul>
+  <li>💻 Estudando atualmente JavaScript</li>
+  <li>💼 Tenho a ambição de ser um Dev FullStack</li>
+  <li>🔍 Cursando atualmente Inteligencia Artificial Aplicada a Segurança da Informação pela <strong>UFPE</strong></li>
+</ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
