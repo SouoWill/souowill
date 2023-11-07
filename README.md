@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=1000&lines=ou+pode+me+chamar+de+will)](https://git.io/typing-svg)
 <h3 align="center">Futuro Desenvolvedor Full Stack</h3>
 
-Comecei a ter interesse por tecnologia desde muito cedo. Em 2021 eu conheci a programação, mas nunca tive a iniciativa de começar a estudar. Em junho de 2023, eu comecei a estudar sobre e me apaixonei pela área.
+<div align="center">Comecei a ter interesse por tecnologia desde muito cedo. Em 2021 eu conheci a programação, mas nunca tive a iniciativa de começar a estudar. Em junho de 2023, eu comecei a estudar sobre e me apaixonei pela área.</div>
 
 **********
 <div align="center">
