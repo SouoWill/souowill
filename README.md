@@ -1,4 +1,6 @@
-## Olá, eu sou o Will!!
+## Olá, eu sou Juan William!!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ou+pode+me+chamar+de+will)](https://git.io/typing-svg)
 
 <div> 
   <a href="https://instagram.com/iamwil.zn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
