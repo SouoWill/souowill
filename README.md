@@ -8,8 +8,8 @@
 **********
 <div align="center">
 <p>💻 Estudando atualmente JavaScript</p>
-<p>💼 Tenho a ambição de ser um Dev FullStack</p>
-<p>🔍 Cursando atualmente Inteligencia Artificial Aplicada a Segurança da Informação pela <strong>UFPE</strong></p>
+<p>💼 Tenho a ambição de ser um Dev Full Stack</p>
+<p>🔍 Cursando atualmente Inteligencia Artificial Aplicada a Segurança da Informação fornecido pela <strong>UFPE</strong></p>
 </div>
 
 **********
