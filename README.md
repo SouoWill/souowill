@@ -7,7 +7,7 @@
 
 **********
 <div align="center">
-<p>💻 Estudando atualmente C e Java</p>
+<p>💻 Estudando atualmente front-end</p>
 <p>💼 Tenho a ambição de ser um Dev Full Stack</p>
 <p>🔍 Cursando atualmente Sistemas de Informação pela <strong>UFPE</strong></p>
 </div>
