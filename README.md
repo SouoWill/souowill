@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=1000&lines=ou+pode+me+chamar+de+will)](https://git.io/typing-svg)
 <h3 align="center">Futuro Desenvolvedor Full Stack</h3>
 
-<div align="center">Comecei a ter interesse por tecnologia desde muito cedo. Em 2021 eu conheci a programação, mas nunca tive a iniciativa de começar a estudar. Em junho de 2023, eu comecei a estudar sobre e me apaixonei pela área.</div>
+<div align="center">Comecei a ter interesse por tecnologia desde muito cedo. Em 2020 eu conheci a programação, mas nunca tive a iniciativa de começar a estudar. Em junho de 2023, eu comecei a estudar sobre e me apaixonei pela área.</div>
 
 **********
 <div align="center">
-<p>💻 Estudando atualmente front-end</p>
-<p>💼 Tenho a ambição de ser um Dev Full Stack</p>
-<p>🔍 Cursando atualmente Sistemas de Informação pela <strong>UFPE</strong></p>
+<p>💻 Estudando atualmente desenvolvimento web</p>
+<p>💼 Tenho a ambição de ser um Desenvolvedor Full Stack</p>
+<p>🔍 Cursando Sistemas de Informação pelo <strong>CIn - UFPE</strong></p>
 </div>
 
 **********
