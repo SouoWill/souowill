@@ -23,14 +23,6 @@
 
 **********
 
-<div align="center">
-    <a href="https://github.com/souowill"></a>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=souowill&show_icons=true&theme=dark"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souowill&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-**********
-
 <h1 align="center">Tecnologias & Ferramentas:</h1>
 
 <table width='600px' align='center'>
